@@ -1,0 +1,28 @@
+name: campcatalyst
+favicon: null
+layout_spectrum: 0.19334879121743143
+typography_spectrum: 0.21578413085080683
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4680825693067163
+  lightness: 0.5167543750721961
+  saturation: 0.20610816730186343
+  rhythmicContrast: 0.1335432860068977
+purpose: []
