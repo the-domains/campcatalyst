@@ -2,6 +2,7 @@ name: campcatalyst
 favicon: null
 layout_spectrum: 0.19334879121743143
 typography_spectrum: 0.21578413085080683
+title: Camp Catalyst
 cta:
   domain: null
   bucket: null
