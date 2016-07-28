@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Camp Catalyst]]></title>
         <description><![CDATA[Camp Catalyst]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/campcatalyst/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 19:11:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jul 2016 19:18:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/campcatalyst/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bass hog]]></title>
+            <description><![CDATA[<article><h1>Bass hog</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4b92acc-77f8-4994-82f7-b21617d741fb.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4b92acc-77f8-4994-82f7-b21617d741fb.jpg</link>
+            <guid isPermaLink="false">b3437521-d2a5-4212-8455-9b60aa28b863</guid>
+            <pubDate>Thu, 28 Jul 2016 19:17:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pop up ]]></title>
             <description><![CDATA[<article><h1>Pop up </h1><p>Pop up party</p></article>]]></description>
-            <link>undefinedpop-up/index.html</link>
+            <link>https://thegrid.ai/campcatalyst/pop-up/index.html</link>
             <guid isPermaLink="false">5bbe917a-dec6-4d05-8184-ff0990cba39b</guid>
             <pubDate>Thu, 28 Jul 2016 19:11:51 GMT</pubDate>
         </item>
